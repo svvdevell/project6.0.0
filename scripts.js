@@ -19,3 +19,5 @@ let result4 = a * b;
 alert(`Результат умножения: ${result4}`);
 
 console.log(result,result2,result3,result4);
+
+console.log("New Feature");
